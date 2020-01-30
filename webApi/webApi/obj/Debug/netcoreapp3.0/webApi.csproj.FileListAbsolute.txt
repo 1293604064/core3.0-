@@ -1,0 +1,16 @@
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\webApi.exe
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\webApi.csprojAssemblyReference.cache
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\staticwebassets\webApi.StaticWebAssets.Manifest.cache
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\staticwebassets\webApi.StaticWebAssets.xml
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\webApi.AssemblyInfoInputs.cache
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\webApi.AssemblyInfo.cs
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\webApi.RazorTargetAssemblyInfo.cache
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\项目\webApi\webApi\webApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\项目\webApi\webApi\webApi\obj\Debug\netcoreapp3.0\webApi.csproj.CopyComplete
