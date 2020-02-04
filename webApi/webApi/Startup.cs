@@ -29,7 +29,11 @@ namespace webApi
         {
             //identityservice配置
             services.AddIdentityServer()
-                .AddDeveloperSigningCredential();
+                .AddDeveloperSigningCredential()
+                // 引用config中的两个方法。
+                .AddInMemoryApiResources(Config.GetApiResources())
+                .AddInMemoryClients(Config.GetClients());
+                
 
             services.AddControllers();
         }
@@ -41,7 +45,7 @@ namespace webApi
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //identityservice配置
             app.UseIdentityServer();
 
             app.UseHttpsRedirection();
